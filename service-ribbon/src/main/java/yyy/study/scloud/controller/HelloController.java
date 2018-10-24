@@ -1,10 +1,10 @@
-package yyy.study.serviceribbon.controller;
+package yyy.study.scloud.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-import yyy.study.serviceribbon.service.HelloService;
+import yyy.study.scloud.service.HelloService;
 
 /**
  * Created on 2018/10/24
