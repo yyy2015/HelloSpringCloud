@@ -5,7 +5,11 @@ spring:
     config:
       server:
         git:
-          uri: 
+          uri: https://github.com/yyy2015/HelloSpringCloud
+          search-paths: properties
+          
+      label: master
+
 server:
   port: 8888
 
